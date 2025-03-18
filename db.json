@@ -1,0 +1,83 @@
+{
+  "taqUtest": [
+    {
+      "name": "pizza",
+      "price": 2000,
+      "image": "https://assets.surlatable.com/m/15a89c2d9c6c1345/72_dpi_webp-REC-283110_Pizza.jpg"
+    },
+    {
+      "name": "nagets",
+      "price": 1200,
+      "image": "https://t4.ftcdn.net/jpg/03/58/13/43/360_F_358134371_khxK6dinkXieNLUsRAtQ5bNMvZAuC6en.jpg"
+    },
+    {
+      "name": "burger",
+      "price": 2500,
+      "image": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/09/beef-burger.jpg?im=AspectCrop=(16,9);"
+    },
+    {
+      "name": "shashlik",
+      "price": 350,
+      "image": "https://grill-bbq.ru/wp-content/uploads/2024/05/shashlyk-iz-baraniny.jpg"
+    },
+    {
+      "name": "shaurma",
+      "price": 300,
+      "image": "https://www.bahroma1.ru/templates/bahroma1/img/shaurma-istoriya-lyubvi-dlinoj-v-tysyacheletie.jpg"
+    }
+  ],
+  "axcan": [
+    {
+      "name": "cezar",
+      "price": 2000,
+      "image": "https://static.1000.menu/img/content-v2/eb/79/19516/salat-cezar-klassicheskii-s-kuricei_1611309331_16_max.jpg"
+    },
+    {
+      "name": "hunakan",
+      "price": 1200,
+      "image": "https://i.ytimg.com/vi/kfZvITcbXAU/sddefault.jpg"
+    },
+    {
+      "name": "romano",
+      "price": 2500,
+      "image": "https://www.locatelli.com/wp-content/uploads/2020/09/apple-pecan-spring-salad-recipe.jpg"
+    },
+    {
+      "name": "frize",
+      "price": 350,
+      "image": "https://assets.bonappetit.com/photos/5da9d7b336fc360008d3174b/1:1/w_2560%2Cc_limit/Basically-Frisee-Salad.jpg"
+    },
+    {
+      "name": "latuk",
+      "price": 300,
+      "image": "https://theclevermeal.com/wp-content/uploads/2021/07/lettuce-salad_01.jpg"
+    }
+  ],
+  "xmichq": [
+    {
+      "name": "7-up",
+      "price": 2000,
+      "image": "https://knjaz.rs/wp-content/uploads/2023/02/7UP-0.5L-PET-img-min.jpg"
+    },
+    {
+      "name": "sprite",
+      "price": 1200,
+      "image": "https://static.parma.am/origin/product/1024/48707(2).jpg"
+    },
+    {
+      "name": "dobri",
+      "price": 2500,
+      "image": "https://www.gurmenia.am/u/items/v3lSTjw3Ei2GsPABhQ.jpg"
+    },
+    {
+      "name": "cola",
+      "price": 350,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg/800px-Coca_Cola_Flasche_-_Original_Taste.jpg"
+    },
+    {
+      "name": "fanta",
+      "price": 300,
+      "image": "https://static.parma.am/origin/product/1024/48705(1).jpg"
+    }
+  ]
+}
